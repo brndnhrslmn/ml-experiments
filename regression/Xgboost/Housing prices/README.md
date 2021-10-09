@@ -11,3 +11,6 @@
 <li>Model training</li>
 <li>Model evaluation</li>
 </ul></p>
+
+<p>The trained model is output as a pickle file and is placed int he 'model' directory
+<p>After fitting and training, test file predictions are output to a file named 'output.csv' in the 'data' directory.</p>
